@@ -1,0 +1,9 @@
+test_login:
+  test_login_001:
+    username: "15602160302"
+    password: "123456"
+    toast: "成功"  #百年奥莱项目暂时不用
+  test_login_002:
+    username: "1234567899"
+    password: "123"
+    toast: "不存在"
